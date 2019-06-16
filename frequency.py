@@ -1,7 +1,3 @@
-# Andrea Elhajj
-# April 9, 2019
-# CS 021
-
 # Write a program that reads in the contents of a text file and displays
 # a histogram of the frequency that words appear in the text.
 
